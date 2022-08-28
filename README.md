@@ -1,5 +1,5 @@
 # Grupo 5
-![image](convertir.jpg)
+![image](svg.jpg)
 
 Nuestro programa procesa imágenes convirtiéndolas en formato SVG para su uso online en páginas web ofreciendo así gráficos con calidad al ser escalables.
 
@@ -7,7 +7,7 @@ Nuestro programa procesa imágenes convirtiéndolas en formato SVG para su uso o
 
 El formato SVG tiene soporte desde hace mucho tiempo para todo tipo de navegadores web. El hecho de trabajar con vectores escalables hace que las imágenes en páginas web con este formato conseguido no pierdan calidad a la hora de darle zoom y tiene gran flexibilidad al poder trabajar en conjunto con el estilo dado por CSS.
   
-![image](https://drive.google.com/file/d/1y7NSNL0SImlyV5ZU_SDLLgMg6ifprn2V/view) 
+![image](convertir.jpg) 
 
 ## Objetivos:
   * Procesamiento de imágenes
