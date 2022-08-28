@@ -1,5 +1,5 @@
 # Grupo 5
-![image](https://drive.google.com/file/d/1SvTabDt3HotgYDSPXt6Ewt6GvBEipJLQ/view?usp=sharing)
+![image](convertir.jpg)
 
 Nuestro programa procesa imágenes convirtiéndolas en formato SVG para su uso online en páginas web ofreciendo así gráficos con calidad al ser escalables.
 
